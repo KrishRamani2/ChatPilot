@@ -1,6 +1,7 @@
 <img src="/public/images/logo.png" alt="logo" width="300" height="150">
 
 # corinna-ai
+![image](https://github.com/user-attachments/assets/175738b2-bea1-4109-8bdc-e3604dd7ae33)
 
 ## Introduction
 
