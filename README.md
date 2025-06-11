@@ -14,7 +14,7 @@ To get started with corinna-ai, follow these steps:
 ## Clone the Repository
 
 ```bash
-git@github.com:Maheshwarreddy970/corinna-ai.git
+https://github.com/RushabhRamani123/corinnaAI.git
 ```
 
 ```bash
