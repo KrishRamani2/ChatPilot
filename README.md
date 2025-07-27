@@ -1,7 +1,7 @@
 <img src="/public/images/logo.png" alt="logo" width="300" height="150">
 
 # ChatPilot
-![image](https://github.com/user-attachments/assets/175738b2-bea1-4109-8bdc-e3604dd7ae33)
+![image](https://drive.google.com/file/d/1FCS7FZq7N349fJGCk9PXyPilVE68FGgp/view?usp=sharing)
 
 ## Introduction
 
