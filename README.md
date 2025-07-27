@@ -1,25 +1,25 @@
 <img src="/public/images/logo.png" alt="logo" width="300" height="150">
 
-# corinna-ai
+# ChatPilot
 ![image](https://github.com/user-attachments/assets/175738b2-bea1-4109-8bdc-e3604dd7ae33)
 
 ## Introduction
 
-corinna-ai
-An AI-powered chatbot designed to enhance customer engagement by providing customizable interactions. Corinna-AI leverages advanced natural language processing (NLP) to understand user queries and respond intelligently. It allows business owners to personalize the chatbot's functionality, including custom greetings, email collection, and direct chat redirection for a tailored user experience.
+ChatPilot
+An AI-powered chatbot designed to enhance customer engagement by providing customizable interactions. ChatPilot leverages advanced natural language processing (NLP) to understand user queries and respond intelligently. It allows business owners to personalize the chatbot's functionality, including custom greetings, email collection, and direct chat redirection for a tailored user experience.
 
 ## Getting Started
 
-To get started with corinna-ai, follow these steps:
+To get started with ChatPilot, follow these steps:
 
 ## Clone the Repository
 
 ```bash
-https://github.com/RushabhRamani123/corinnaAI.git
+https://github.com/RushabhRamani123/ChatPilotAI.git
 ```
 
 ```bash
-cd corinna-ai
+cd ChatPilot
 ```
 
 ## Environment Variables
@@ -106,16 +106,16 @@ Navigate to http://localhost:3000 to view the application.
 ChatDoc uses a monorepo setup managed by Turborepo and includes a Next.js application. Below is an overview of the file structure:
 
 ````bash
-# corinna-ai
+# ChatPilot
 
-corinna-ai is a cutting-edge web application designed to provide seamless user experiences with robust backend support. This repository houses the core of corinna-ai, including its frontend, backend, and associated configurations.
+ChatPilot is a cutting-edge web application designed to provide seamless user experiences with robust backend support. This repository houses the core of ChatPilot, including its frontend, backend, and associated configurations.
 
 ## Project Structure
 
 Below is the structure of the main folders and files:
 
 ```plaintext
-corinna-ai/
+ChatPilot/
 │
 ├── prisma/                         # Prisma ORM setup and schema files
 ├── public/                         # Public assets (images, fonts, etc.)
